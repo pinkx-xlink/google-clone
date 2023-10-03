@@ -1,7 +1,10 @@
 * {
     background-color: aliceblue;
 }
-.header{
+.header {
     display:flex;
     flex-direction: row;
+}
+a {
+    text-decoration: none;
 }
