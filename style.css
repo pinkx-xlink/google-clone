@@ -5,6 +5,14 @@
     display:flex;
     flex-direction: row;
 }
+
 a {
     text-decoration: none;
+}
+.header-left {
+    padding:10px;
+}
+
+.header-right {
+    padding: 10px;
 }
