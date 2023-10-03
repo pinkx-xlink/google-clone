@@ -1,3 +1,7 @@
 * {
     background-color: aliceblue;
 }
+.header{
+    display:flex;
+    flex-direction: row;
+}
