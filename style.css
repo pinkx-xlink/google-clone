@@ -25,10 +25,11 @@ a:hover {
 
 #signin {
     color: white;
+    font-size: 14px;
     background-color: rgb(87, 87, 255);
     border-style: none;
-    border-radius: 7px;
-    height: 50px;
+    border-radius: 4px;
+    height: 35px;
     width: 100px;
 }
 #signin:hover {
