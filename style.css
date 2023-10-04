@@ -57,6 +57,10 @@ a:hover {
     height: 50px;
     width: 400px;
 }
+#search-bar:hover {
+    box-shadow: rgb(197, 197, 197) 2px 2px 2px;
+}
+
 
 #google-search,
 #lucky {
