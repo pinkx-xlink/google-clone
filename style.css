@@ -46,8 +46,9 @@ a:hover {
     border-style: none;
     border-radius: 4px;
     height: 35px;
-    width: 100px;
+    width: 97px;
     margin-left: 28px;
+    margin-right: 10px;
 }
 #signin:hover {
     background-color: rgb(55, 55, 209);
