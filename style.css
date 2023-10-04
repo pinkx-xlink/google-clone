@@ -83,15 +83,19 @@ a:hover {
     box-shadow: rgb(197, 197, 197) 1px 2px 5px;
 }
 
-
+#google-search{
+    margin-right: 10px;
+}
 #google-search,
 #lucky {
+    font-size: 14px;
     border-style: none;
     background-color: rgb(247, 246, 246);
     color: rgb(71, 71, 71);
-    height: 40px;
-    width:150px;
-    border-radius: 7px;
+    height: 35px;
+    width:135px;
+    border-radius: 3px;
+    margin-top: 10px;
 }
 #google-search:hover, 
 #lucky:hover {
@@ -103,9 +107,13 @@ a:hover {
     font-size: 13px;
     font-family: Arial, Helvetica, sans-serif;
 }
+#ad-link:hover {
+    text-decoration: underline;
+}
 #ad{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
+    margin-top: 3px;
 }
 .footer {
     display: flex;
