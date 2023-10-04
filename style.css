@@ -34,6 +34,7 @@ a:hover {
     border-radius: 4px;
     height: 35px;
     width: 100px;
+    margin-left: 28px;
 }
 #signin:hover {
     background-color: rgb(55, 55, 209);
@@ -54,7 +55,7 @@ a:hover {
 #search-bar {
     border-radius: 30px;
     border: 1px solid rgb(226, 226, 226);
-    height: 45px;
+    height: 40px;
     width: 600px;
 }
 #search-bar:hover {
