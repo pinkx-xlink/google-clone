@@ -25,7 +25,9 @@ a:hover {
 .header-right {
     padding: 10px;
 }
-
+#apps-icon {
+    margin-left: 10px;
+}
 #signin {
     color: white;
     font-size: 14px;
