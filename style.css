@@ -33,6 +33,10 @@ a:hover {
 .right-corner{
     display: flex;
 }
+#gmail,
+#google-images {
+    font-size: 13px;
+}
 #gmail {
     padding: 20px;
 }
