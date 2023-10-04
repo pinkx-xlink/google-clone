@@ -21,9 +21,15 @@ a:hover {
 .header-left {
     padding:10px;
 }
+#store {
+    padding: 20px;
+}
 
 .header-right {
     padding: 10px;
+}
+#gmail {
+    padding: 20px;
 }
 #apps-icon {
     margin-left: 10px;
