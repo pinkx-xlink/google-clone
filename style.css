@@ -41,3 +41,8 @@ a {
     height: 50px;
     width: 400px;
 }
+
+#google-search,
+#lucky {
+    border-style: none;
+}
