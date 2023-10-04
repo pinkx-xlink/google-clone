@@ -27,6 +27,12 @@ a:hover {
 
 .header-right {
     padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.right-corner{
+    display: flex;
 }
 #gmail {
     padding: 20px;
