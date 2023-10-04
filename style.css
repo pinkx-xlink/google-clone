@@ -38,6 +38,7 @@ a:hover {
 }
 #apps-icon {
     margin-left: 30px;
+    margin-top: 5px;
 }
 #signin {
     color: white;
