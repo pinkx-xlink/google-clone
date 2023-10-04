@@ -35,7 +35,9 @@ a {
     align-items: center;
     gap:20px;
 }
-
+#logo {
+    height: 100px;
+}
 #search-bar {
     border-radius: 30px;
     border: 1px solid rgb(226, 226, 226);
