@@ -102,3 +102,9 @@ a:hover {
     bottom: 20px;
     gap:35px;
 }
+.left-link {
+    margin-right: 25px;
+}
+.right-link {
+    margin-right: 25px;
+}
