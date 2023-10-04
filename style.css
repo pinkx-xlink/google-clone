@@ -68,9 +68,14 @@ a:hover {
     border: 1px solid rgb(187, 187, 187);
     box-shadow: rgb(228, 228, 228) 1px 1px 1px;
 }
-
-.footer {
+.footer{
+    position: absolute;
+    bottom:25px;
+}
+.footer-links {
     display: flex;
-    justify-content: center;
-    align-content: space-between;
+    justify-content:center;
+    position: absolute;
+    bottom: 0px;
+    gap:35px;
 }
