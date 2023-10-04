@@ -26,7 +26,6 @@ a:hover {
 }
 
 .header-right {
-    
     display: flex;
     align-items: center;
 }
@@ -83,6 +82,7 @@ a:hover {
 #lucky {
     border-style: none;
     background-color: rgb(247, 246, 246);
+    color: rgb(71, 71, 71);
     height: 40px;
     width:150px;
     border-radius: 7px;
