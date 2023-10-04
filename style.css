@@ -58,7 +58,7 @@ a:hover {
     width: 400px;
 }
 #search-bar:hover {
-    box-shadow: rgb(197, 197, 197) 2px 2px 2px;
+    box-shadow: rgb(197, 197, 197) 1px 2px 5px;
 }
 
 
