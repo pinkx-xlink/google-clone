@@ -45,4 +45,8 @@ a {
 #google-search,
 #lucky {
     border-style: none;
+    background-color: rgb(216, 216, 216);
+    height: 40px;
+    width:150px;
+    border-radius: 10px;
 }
