@@ -82,6 +82,8 @@ a:hover {
     height: 40px;
     width: 600px;
     display: grid;
+    padding-left: 10px;
+    align-content: center;
 }
 
 #search-bar:hover {
