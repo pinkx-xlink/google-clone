@@ -1,5 +1,5 @@
-* {
-    margin: 0;
+body {
+    min-height: 100vh;
 }
 .header {
     font-family: Arial, Helvetica, sans-serif;
@@ -120,7 +120,7 @@ a:hover {
     justify-content: center;
 }
 .footer-div{
-    background:rgb(219, 219, 219);
+    background-color:rgb(219, 219, 219);
     width: 1100px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
@@ -134,7 +134,7 @@ a:hover {
 
 
 .footer-links {
-    background: rgb(219, 219, 219);
+    background-color: rgb(219, 219, 219);
     width: 1050px;
     height: 30px;
     font-family: Arial, Helvetica, sans-serif;
