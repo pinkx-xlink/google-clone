@@ -132,6 +132,10 @@ a:hover {
     justify-content: center;
     margin: 0px;
 }
+#leaf-img {
+    height: 15px;
+    margin-right: 8px;
+}
 .footer-div{
     background-color:rgb(219, 219, 219);
     width: 100%;
@@ -139,6 +143,7 @@ a:hover {
     font-size: 14px;
     color:rgb(105, 104, 104);
     display: flex;
+    align-items: center;
     justify-content: center;
     position: absolute;
     bottom:20px;
