@@ -76,6 +76,8 @@ a:hover {
 }
 
 #search-bar {
+    background: url(img/search-icon.png) no-repeat scroll 7px 7px;
+    margin-left: 20px;
     border-radius: 30px;
     border: 1px solid rgb(226, 226, 226);
     height: 40px;
@@ -87,6 +89,9 @@ a:hover {
 
 #search-bar:hover {
     box-shadow: rgb(197, 197, 197) 1px 2px 5px;
+}
+#search-bar:focus {
+    border: 1px solid rgb(226, 226, 226);
 }
 
 #google-search{
