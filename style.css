@@ -87,13 +87,12 @@ a:hover {
 
 #search-bar {
     background: url(img/search-icon.png) no-repeat scroll 7px 7px;
-    margin-left: 20px;
     border-radius: 30px;
     border: 1px solid rgb(226, 226, 226);
     height: 40px;
     width: 600px;
     display: grid;
-    padding-left: 10px;
+    padding-left: 40px;
     align-content: center;
 }
 
