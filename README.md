@@ -1,7 +1,6 @@
 # google-clone
-My goal for this project is to clone the Google homepage.
+This repo was one of my first personal experiments with HTML and CSS outside of my curriculum. 
 
-This is a project I've chosen to do outside of The Odin Project, because I've been working on the JavaScript course and as fun as it is, I miss exercising my HTML and CSS skills. 
+![A screenshot of my Google homepage clone](./Screenshot%20(25).png "Google Home Page Clone Screenshot")
 
-
-
+I made this webpage for while in between Javascript projects to flex my CSS muscles after shifting my focus away from CSS for a while. It was a fun mini project and helped me strengthen my knowledge of flex, input fields, hover effects, and implementing icons into a webpage. 
