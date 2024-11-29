@@ -51,6 +51,9 @@ a:hover {
     margin-left: 30px;
     margin-top: 5px;
 }
+#apps-icon:hover {
+    cursor: pointer;
+}
 #signin {
     color: white;
     font-size: 14px;
@@ -77,6 +80,9 @@ a:hover {
 }
 #logo {
     height: 100px;
+}
+#logo:hover {
+    cursor: pointer;
 }
 
 #search-bar {
