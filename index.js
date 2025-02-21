@@ -1,6 +1,8 @@
-const searchBar = document.getElementById('search-bar');
-const search = searchBar.value;
-console.log(search);
-searchBar.addEventListener('submit', function(search) {
-    
+const search = document.getElementById('search-bar').value;
+document.getElementById('search-bar').addEventListener('keydown', function(e) {
+  if (e.key === 'Enter') {
+    // e.preventDefault();
+    console.log('key pressed')
+    window.location.href = `https://www.google.com/search?q=${search}&tbm=isch`;
+    }
 })
