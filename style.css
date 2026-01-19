@@ -43,12 +43,7 @@ body {
   padding: 0px;
   font-family: "Google Sans", Arial, Helvetica, sans-serif;
 }
-.header {
-  font-family: Arial, Helvetica, sans-serif;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
+
 body {
   margin: 12px;
   margin-left: 35px;
@@ -63,8 +58,19 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.header {
+  font-family: Roboto, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 70px;
+  width: 100%;
+}
 .header-left {
   padding: 10px;
+  position: absolute;
+  left: 13px;
 }
 #store {
   padding: 20px;
@@ -73,18 +79,29 @@ a:hover {
 .header-right {
   display: flex;
   align-items: center;
+  justify-content: flex-end;
+}
+.header-right__content {
+  gap: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.right-icons-group {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.right-icons {
+  display: flex;
+  align-items: center;
 }
 
-.right-corner {
-  display: flex;
-}
 #gmail,
 #google-images {
   font-size: 13px;
 }
-#gmail {
-  padding: 20px;
-}
+
 #apps-icon {
   margin-left: 30px;
   margin-top: 5px;
